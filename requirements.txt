@@ -1,0 +1,2 @@
+python -m venv venv && source venv/bin/activate   # Windows: venv\Scripts\activate
+pip install streamlit geopandas pydeck folium streamlit-folium requests pandas shapely
